@@ -20,10 +20,6 @@ Filter the table using two conditions:
 
 See solution.sql
 
-## Time Complexity
-
-O(n)
-
 ## What I Learned
 
 How to filter records using multiple conditions with the WHERE clause.
