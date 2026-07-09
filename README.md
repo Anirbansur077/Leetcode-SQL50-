@@ -24,8 +24,8 @@ Welcome to my solutions for the LeetCode SQL 50 Study Plan.
 
 | Topic | Completed |
 |--------|-----------|
-| SELECT | 0 |
-| JOINS | 0 |
+| SELECT | 5 |
+| JOINS | 2 |
 | Aggregate Functions | 0 |
 | GROUP BY | 0 |
 | Subqueries | 0 |
